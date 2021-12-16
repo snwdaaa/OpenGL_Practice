@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\kkj48\Desktop\OpenGL_Practice\glfw-3.3.6\examples\simple.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kkj48\Desktop\OpenGL_Practice\glfw-3.3.6\deps\glad_gl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\kkj48\Desktop\OpenGL_Practice\glfw-3.3.6\deps\glad\gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kkj48\Desktop\OpenGL_Practice\glfw-3.3.6\examples\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\kkj48\Desktop\OpenGL_Practice\glfw-3.3.6\examples\glfw.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B1A4EBEF-C044-3444-BA02-1FD6FB9927F7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E228A522-4EB2-3707-BE50-9BFE91F0ABFC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
