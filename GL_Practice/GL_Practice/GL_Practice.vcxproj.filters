@@ -21,5 +21,8 @@
     <ClCompile Include="Chapter1\4_Hello_Window\hello_window.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Chapter1\5_Hello_Triangle\hello_triangle.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

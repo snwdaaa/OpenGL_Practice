@@ -41,6 +41,7 @@ int main()
 		return -1;
 	}
 	glfwMakeContextCurrent(window);
+	// window의 크기가 바뀔 때 두 번째 인자로 주어진 콜백 함수를 호출
 	glfwSetFramebufferSizeCallback(window, framebuffer_size_callback);
 
 	// OpenGL 관련 함수가 호출되기 전에 GLAD 초기화하기
